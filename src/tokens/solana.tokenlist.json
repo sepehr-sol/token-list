@@ -116400,6 +116400,17 @@
       "tags": [
         "security-token"
       ]
+    },
+    {
+      "chainId": 101,
+      "address": "6KVY7RNK22NcK4kBBMyHPHhxfWChbBVUQwQ1kwQv8sHV",
+      "symbol": "$F",
+      "name": "Furious Coin",
+      "decimals": 4,
+      "logoURI": "https://raw.githubusercontent.com/sepehr-sol/token/main/blue_bear_icon_by_beksortmint_de7ktb3-fullview.png",
+      "tags": [
+        "community-token"
+      ]
     }
   ],
   "version": {
